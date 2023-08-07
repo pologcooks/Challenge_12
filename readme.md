@@ -23,7 +23,7 @@ This command-line application is an Employee Management System that helps you ma
 1. **Clone the Repository**
 2. **CD to the Directory**
 3. **NPM Install**
-4. **Modify connection.js**
+4. **Modify connection.json**
 5. **node index.js**
 
 ## Usage
